@@ -10,4 +10,4 @@ Im excited to translate this into a real 2d game using a graphics engine such as
 - Can use make clean to get rid of the .o files.
 
 # To Run
-Assuming you used the provided makefile, **./ascii_game.exe**
+Assuming you used the provided makefile: **./ascii_game.exe**
